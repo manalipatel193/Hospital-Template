@@ -1,0 +1,30 @@
+.float-r img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+    width: 900px;
+    opacity: 70%;
+}
+.float-l {
+    background-color:blue;
+   
+    -webkit-clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 80% 100%, 0% 100%);
+    width: 60%;
+    z-index: 99;
+    position: relative;
+    padding-left: 10px;
+}
+.main-section {
+    position: relative;
+}
+.footer-box{
+    font-size: 24px;
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+  .footer-box form {
+    vertical-align: top;
+  }
+ 

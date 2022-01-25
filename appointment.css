@@ -1,0 +1,19 @@
+.container{
+    color: white;
+    padding-left: 80px;
+    padding-top: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color:blue;
+    height:721px;
+    width:2100px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
+    clip-path: polygon(0 0, 70% 0, 55% 100%, 0% 100%);
+}
+h1{
+    padding-top: 30px;
+}
+ 
+
+
+

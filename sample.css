@@ -1,0 +1,42 @@
+*{box-sizing: border-box;}
+.container-fluid{
+    background-color: black;
+}
+  div{
+      background-color:whitesmoke;
+      color:white
+  }
+
+  .search-container{
+      background-color:white;
+   margin-top: -50px ;
+   padding-left: 1210px;
+   color:white;
+   
+    box-shadow: blue;
+
+  }
+  .search-container input[type=text]
+  {
+      border-color: blue;
+  }
+.section{
+    background-color: whitesmoke;
+    margin-top: 10px;
+}
+.section1{
+    background-color: blue;
+}
+.section2{
+    background-color: whitesmoke;    
+     
+    }  
+    
+li a {
+    
+    color: whitesmoke;
+   display: inline;
+    padding: 45px;
+} 
+
+   
